@@ -1,6 +1,6 @@
 import unittest
-from youtube_selenium_project.infra.browser_wrapper import BrowserWrapper
-from youtube_selenium_project.logic.youtube_page import YouTubePage
+from infra.browser_wrapper import BrowserWrapper
+from logic.youtube_page import YouTubePage
 
 
 class YouTubePageTest(unittest.TestCase):
